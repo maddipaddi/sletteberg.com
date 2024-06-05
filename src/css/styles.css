@@ -1,3 +1,2 @@
-body {
-  background-color: #011b16;
-}
+@import url("./variables.css");
+@import url("./common.css");
