@@ -1,0 +1,5 @@
+@container content (inline-size <960px) {
+  .content-grid > * {
+    grid-column: span 4;
+  }
+}
