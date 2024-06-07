@@ -42,7 +42,7 @@ const routes = {
     description: "Read or download my resume."
   },
   "/contact": {
-    template: "/templates/about.html",
+    template: "/templates/contact.html",
     title: "Contact me | " + pageTitle,
     description: "Get in touch with me."
   }
