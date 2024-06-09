@@ -4,12 +4,13 @@
   "description": "This project is under development and will be a portfolio for me - Madelen Sletteberg :)",
   "main": "index.js",
   "type": "module",
- "scripts": {
-  "start": "node server.mjs"
-},
+  "scripts": {
+    "start": "node server.mjs"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2"
-  }
+  },
+  "keywords": []
 }
