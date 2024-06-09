@@ -1,0 +1,9 @@
+:root {
+  --main-bg-color-light-mode: #c0efe6;
+  --main-bg-color-dark-mode: #072435;
+  --accent-color: #c4dd65;
+  --main-font-headings: "Raleway", Cambria, Cochin, Georgia, Times,
+    "Times New Roman", serif;
+  --main-font-text: "Roboto", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  --box-shadow: 1px 5px 6px 0px #126694;
+}

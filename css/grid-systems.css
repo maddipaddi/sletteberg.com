@@ -1,0 +1,25 @@
+.about-content-grid {
+  display: grid;
+  grid-template-columns: 1fr [content-start] 4fr [content-end] 3fr 1fr;
+  gap: 2rem;
+  container: content / inline-size;
+}
+
+.about-main-content {
+  grid-column: content;
+}
+
+.aside {
+  background-color: var(--accent-color);
+  box-shadow: var(--box-shadow);
+  padding: 2rem;
+  height: fit-content;
+}
+
+.grid-1-col {
+  display: grid;
+  grid-template-columns: minmax(300px, 60%);
+  gap: 2rem;
+  justify-content: center;
+  justify-items: center;
+}
