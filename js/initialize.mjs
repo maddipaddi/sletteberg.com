@@ -1,4 +1,4 @@
-import { router } from "./utils/router.mjs";
+import { router } from "./components/router.mjs";
 
 function init() {
     router();
